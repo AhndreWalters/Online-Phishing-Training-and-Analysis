@@ -4,7 +4,7 @@
 <img src="https://github.com/AhndreWalters/Online-Phishing-Training-and-Analysis/blob/main/email-body-2.png"/>
 
 ## Overview
-Data Security Concepts course assignment from T.A. Marryshow Community College. Practical analysis of phishing emails, identification of red flags, and creation of security awareness content.
+Practical analysis of phishing emails, identification of red flags, and creation of security awareness content.
 
 ## Key Learning Points
 ### Phishing Red Flags
@@ -36,7 +36,4 @@ Demonstrates practical application of:
 - Security awareness content development
 - Social engineering countermeasures
 
-## License
-Educational project for phishing analysis and security awareness.
-
-<strong>[© 2026 Ahndre Walters](https://github.com/AhndreWalters/Online-Phishing-Training-and-Analysis/blob/main/LICENSE) · Online Phishing Training & Analysis · TAMCC Data Security Course · College Course Assignment</strong>
+<strong>[© 2026 Ahndre Walters](https://github.com/AhndreWalters/Online-Phishing-Training-and-Analysis/blob/main/LICENSE)</strong>
